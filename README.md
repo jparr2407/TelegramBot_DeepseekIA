@@ -26,12 +26,12 @@ Este é um bot do Telegram que permite fazer consultas em um banco de dados MySQ
 - Crie um banco de dados MySQL
 - Configure os dados de conexão do seu banco de dados no arquivo `.env`
 
+3. Na função buscar_resposta do arquivo database.py, configure como a IA deve se comportar diante dos seus dados.
+
 ## 🎮 Uso
 
-1. Inicie o bot:
-- python bot.py
-
-2. No Telegram, inicie uma conversa com o bot usando o comando `/start`
+1. Inicie o bot (arquivo bot.py)
+2. Após rodar, vá ao Telegram e inicie uma conversa com o bot usando o comando `/start`
 3. Faça perguntas sobre os dados do seu banco de dados em linguagem natural
 ### Exemplos de perguntas:
 - "Quais são os dados da tabela X?"
