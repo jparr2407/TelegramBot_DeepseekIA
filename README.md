@@ -1,6 +1,6 @@
 # Bot de Consultas SQL via Telegram
 
-Este é um bot do Telegram que permite fazer consultas em um banco de dados MySQL através de linguagem natural, utilizando a API Deepseek para converter as perguntas em consultas SQL.
+Este é um bot do Telegram que permite fazer consultas em um banco de dados MySQL através de linguagem natural, utilizando a API Deepseek para converter as perguntas em consultas SQL. Utilizei a IA do Deepseek pelos tokens serem bem baratos em relação a outras IA's. 
 
 ## 🚀 Funcionalidades
 
