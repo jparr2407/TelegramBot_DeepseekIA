@@ -44,6 +44,7 @@ Este é um bot do Telegram que permite fazer consultas em um banco de dados MySQ
 - `database.py`: Gerenciamento de conexão e consultas ao banco de dados
 - `.env`: Arquivo de configuração com variáveis de ambiente
 - `requirements.txt`: Lista de dependências do projeto
+- `historico_mensagens.sql`: Arquivo com o DDL da tabela necessária para armazenar o histórico de mensagens dos usuários com a IA.
 
 ## ⚙️ Configurações
 
@@ -54,7 +55,7 @@ Este é um bot do Telegram que permite fazer consultas em um banco de dados MySQ
 - Delay entre retries: 5 segundos
 
 ### Histórico de Mensagens
-- Armazena as últimas 5 mensagens por usuário
+- Armazena as últimas 5 mensagens por usuário, ajudando a manter o contexto na conversa
 - Mensagens mais antigas são automaticamente removidas
 
 ## 📦 Dependências Principais
