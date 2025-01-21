@@ -1,0 +1,8 @@
+# Cache Python
+__pycache__/
+*.pyc
+
+# Outros
+*.log
+.vscode/
+.idea/ 
