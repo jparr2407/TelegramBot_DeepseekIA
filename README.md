@@ -69,4 +69,4 @@ Este é um bot do Telegram que permite fazer consultas em um banco de dados MySQ
 
 ## ✒️ Dev
 
-* **João Pedro Araujo** - *Engenheiro de Software Jr.* - [jparr2407](https://github.com/jparr2407)
+* **João Pedro Araujo** - *Engenheiro de Software/Dados* - [jparr2407](https://github.com/jparr2407)
